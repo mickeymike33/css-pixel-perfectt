@@ -1,0 +1,78 @@
+.container {
+  width: 325px;
+  background-color: #468df1;
+  font-family: sans-serif;
+  color: #dae7fc;
+  border-radius: 2px;
+}
+
+div {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.user {
+  padding-top: 10px;
+  font-size: 15px;
+  color: white;
+}
+
+.usernumber {
+  font-size: 50px;
+  color: white;
+}
+
+.usernumber p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.views {
+  border-bottom: 1px solid #68a1f3 ;
+  margin-bottom: 20px;
+}
+
+.views p {
+  font-size: 11px;
+  margin-bottom : 5px;
+}
+
+.graphic {
+  margin-bottom: 20px;
+}
+
+.topactivepages {
+  font-size: 12px;
+}
+
+table {
+  width: 100%;
+  border-spacing:0;
+  border-collapse: collapse;
+}
+
+td {
+  padding-left: 0;
+  padding-right: 0;
+  line-height: 25px;
+  border-bottom: 1px solid #68a1f3;
+}
+
+.right {
+  text-align: right;
+}
+
+.noborder {
+  border: 0px;
+  padding-bottom: 20px;
+}
+
+.realtime-report {
+  border-top: 1px solid #68a1f3;
+  text-transform: uppercase;
+  font-size: 13px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-bottom: 1px;
+  padding-left: 50%;
+}
